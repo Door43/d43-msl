@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[msl:home|Door43 (msl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-msl|d43-msl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-msl/archive/master.zip|d43-msl.zip]]
+
+**Recent Changes**
+{{changes>ns = msl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/msl|Ethnologue data]]
+
